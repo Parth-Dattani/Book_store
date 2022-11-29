@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040211663265",
+    "project_id": "my-book-store-dacac",
+    "storage_bucket": "my-book-store-dacac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040211663265:android:81265a945e12771806d3e0",
+        "android_client_info": {
+          "package_name": "com.example.book_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040211663265-vp5i39ou3crccaf3nevrjsf0b0ds39p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_-ewVgPp3aJJ-qTVasXXBKiBUa9-hBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040211663265-vp5i39ou3crccaf3nevrjsf0b0ds39p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
